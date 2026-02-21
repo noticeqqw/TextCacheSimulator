@@ -2,8 +2,6 @@
 
 [![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
 [![Maven](https://img.shields.io/badge/Maven-3.8+-blue.svg)](https://maven.apache.org/)
-[![JFreeChart](https://img.shields.io/badge/JFreeChart-1.5.3-green.svg)](https://www.jfree.org/jfreechart/)
-
 ## Описание проекта
 
 Приложение демонстрирует работу кэша объектов с различными стратегиями вытеснения (FIFO, LRU, RAND). Реализовано кэширование слов при последовательном чтении текстовых файлов с возможностью анализа эффективности различных стратегий.
